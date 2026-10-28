@@ -1,5 +1,7 @@
 # MeloX
 
+本仓库是 [youshen2/MeloX](https://github.com/youshen2/MeloX) 的个人 fork。下方保留上游项目说明、署名及许可；上游网站、发布包和维护状态不代表本 fork 已构建、签名或发布对应版本。
+
 [简体中文](README.md) | [English](README.en.md)
 
 [![License](https://img.shields.io/github/license/youshen2/MeloX)](https://github.com/youshen2/MeloX/blob/master/LICENSE)

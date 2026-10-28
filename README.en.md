@@ -1,5 +1,7 @@
 # MeloX
 
+This repository is a personal fork of [youshen2/MeloX](https://github.com/youshen2/MeloX). The upstream documentation, attribution, and licenses are retained below. Upstream websites and releases do not imply that this fork publishes equivalent builds.
+
 [简体中文](README.md) | [English](README.en.md)
 
 [![License](https://img.shields.io/github/license/youshen2/MeloX)](https://github.com/youshen2/MeloX/blob/master/LICENSE)
